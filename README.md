@@ -9,7 +9,7 @@ Exercícios e exemplos simples feitos em Java.
 - [💪Menor e Maior Peso](https://github.com/gabriel-alex135/Java/blob/main/Maior%20e%20Menor%20peso)
 - [🏦Compras no Mercado](https://github.com/gabriel-alex135/Java/blob/main/Compras%20no%20mercado)
 - [💰Empréstimo](https://github.com/gabriel-alex135/Java/blob/main/Empr%C3%A9stimo)
-- [Laços de Repetição]()
+- [🏧Caixa Eletrônico](https://github.com/gabriel-alex135/Java/blob/main/Caixa%20Eletr%C3%B4nico)
 - [Laços de Repetição]()
 - [Laços de Repetição]()
 - [Laços de Repetição]()
