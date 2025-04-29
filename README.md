@@ -13,5 +13,5 @@ Exercícios e exemplos simples feitos em Java.
 - [💵Cálculo de Salário Líquido](https://github.com/gabriel-alex135/Java/blob/main/C%C3%A1lculo%20de%20Sal%C3%A1rio%20L%C3%ADquido)
 - [🔢Par e Impar ou Primo](https://github.com/gabriel-alex135/Java/blob/main/Par%20e%20Impar%20ou%20Primo)
 - [🚗Radar eletrônico](https://github.com/gabriel-alex135/Java/blob/main/Radar%20eletr%C3%B4nico)
-  ==========
+==========
 - [Atividade Prática]()
