@@ -12,5 +12,5 @@ Exercícios e exemplos simples feitos em Java.
 - [🏧Caixa Eletrônico](https://github.com/gabriel-alex135/Java/blob/main/Caixa%20Eletr%C3%B4nico)
 - [💵Cálculo de Salário Líquido](https://github.com/gabriel-alex135/Java/blob/main/C%C3%A1lculo%20de%20Sal%C3%A1rio%20L%C3%ADquido)
 - [🔢Par e Impar ou Primo](https://github.com/gabriel-alex135/Java/blob/main/Par%20e%20Impar%20ou%20Primo)
-- [Laços de Repetição]()
+- [🚗Radar eletrônico](https://github.com/gabriel-alex135/Java/blob/main/Radar%20eletr%C3%B4nico)
 - [Laços de Repetição]()
