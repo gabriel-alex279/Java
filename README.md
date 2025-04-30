@@ -16,7 +16,7 @@ Exercícios e exemplos simples feitos em Java.
   
 ## Atividades Acadêmicas 🎓
 
-Atividades práticas solicitadas pela minha Universidade.
+Atividades práticas solicitadas pela minha Faculdade.
 
 - [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Java/commit/9f3bdb1e005021fe30946789614a262678f6e5ea)
 - [Atividade Prática - Trabalho Anhanguera - 2](https://github.com/gabriel-alex279/Java/commit/c2beb6a26114215fea6aac73909cdfc2716f2387)
