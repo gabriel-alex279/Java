@@ -1,0 +1,105 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        System.out.print("Bem-Vindo ao Caixa Eletrônico do Banco do Brasil!");
+        // Aqui o usuário tem que escolher uma das opções disponíveis do caixa eletrônico
+        System.out.print("\nPor favor, escolha uma das opções abaixo: ");
+        String texto = """
+        \n[1] Ver saldo
+        [2] Realizar saque
+        """;
+        System.out.print(texto);
+        float saldo = 6755;
+        int escolha = 0;
+        while (escolha != 1 && escolha != 2) {
+        // Então, o usuário escolhe a opção
+        System.out.print("\nQual opção você prefere? ");
+        escolha = teclado.nextInt();
+        if (escolha != 1 && escolha != 2) {
+            // Caso ele escolha uma opção diferente de 1 e 2, o programa retorna a pergunta
+            System.out.print("\nOpção incorreta! Tente novamente.");
+        }
+
+        }
+        int resposta = 0;
+        
+        if (escolha == 1) {
+            // Após ele ter escolhido a opção 1, o programa pergunta se ele quer sacar algum valor
+            System.out.printf("\nAtualmente o seu saldo é de R$%.2f.", saldo);
+            System.out.print("\nGostaria de realizar um saque? 1 [Sim] | 2 - [Não]: ");
+            resposta = teclado.nextInt();
+        }
+        if (resposta == 2) {
+            // Se ele não quiser, o programa encerra
+            System.out.print("Muito bem! Volte sempre");
+            System.exit(0); 
+        }
+        int saque = 0;
+        
+        if (escolha == 2 || resposta == 1) {
+            while (true) {
+            // Já se ele quiser, o programa continua com o saque
+            System.out.print("\nQuanto você quer sacar? R$");
+        saque = teclado.nextInt();
+        if (saque > saldo) {
+            // Se ele quiser sacar mais que o saldo, o problema retorna a pergunta
+            System.out.print("\nERRO! Saldo insuficiente.");
+        } else {
+            break;
+        }
+        }
+            System.out.println("\nVocê vai receber:");
+            /* Uma vez declarado o valor, o programa informa quanto o usuário
+            vai receber em cedulas e em moedas */
+        if (saque/100 > 1) {
+             int nota_cem = saque/100;
+             saque = saque-(100*nota_cem);
+             System.out.printf("\n%d notas de cem reais.", nota_cem);
+            }
+        if (saque/100 == 1) {
+             int nota_cem = saque/100;
+             saque = saque-(100*nota_cem);
+             System.out.printf("\n%d nota de cem reais.", nota_cem);
+            }  
+        if (saque/50 >=1) {
+            int nota_cin = saque/50;
+            saque = saque-(50*nota_cin);
+            System.out.printf("\n%d nota de cinquenta reais.", nota_cin);
+        }
+        if (saque/20 > 1) {
+            int nota_vinte = saque/20;
+            saque = saque-(20*nota_vinte);
+            System.out.printf("\n%d notas de vinte reais.", nota_vinte);
+        }
+        if (saque/20 == 1) {
+            int nota_vinte = saque/20;
+            saque = saque-(20*nota_vinte);
+            System.out.printf("\n%d nota de vinte reais.", nota_vinte);
+        }
+        if (saque/10 >= 1) {
+            int nota_dez = saque/10;
+            saque = saque-(10*nota_dez);
+            System.out.printf("\n%d nota de dez reais.", nota_dez);
+        }
+        if (saque/5 >= 1) {
+            int nota_cinco = saque/5;
+            saque = saque-(5*nota_cinco);
+            System.out.printf("\n%d nota de cinco reais.", nota_cinco);
+        }
+        if (saque/1 > 1) {
+            int nota_um = saque/1;
+            saque = saque-(1*nota_um);
+            System.out.printf("\n%d moedas de um real.", nota_um);
+        }
+        if (saque/1 == 1) {
+            int nota_um = saque/1;
+            saque = saque-(1*nota_um);
+            System.out.printf("\n%d moeda de um real.", nota_um);
+        }
+        } // Aqui chega o fim do programa!
+        System.out.println("\nFIM DO PROGRAMA. Volte sempre!");
+    }
+
+    }
