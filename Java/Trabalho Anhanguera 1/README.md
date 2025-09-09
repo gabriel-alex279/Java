@@ -42,25 +42,34 @@ Você deve criar um programa em Java que:
 
 
 Aqui eu acesso o myCompiler:
+<img width="1023" height="606" alt="1" src="https://github.com/user-attachments/assets/10af8208-15bf-4660-a1d3-07c71f6a994e" />
 
 
 Crio um código simples de uma cálculadora que faz somente a divisão, onde o mesmo permita que o usuário insira 2 números, realize a divisão do primeiro número relativo ao segundo 3 mostra na tela:
+<img width="1023" height="606" alt="2" src="https://github.com/user-attachments/assets/da1844c6-0d77-4eb8-98ee-873d6ba45ae8" />
 
 
 No primeiro exemplo insiro os valores 9 e 3:
+<img width="1023" height="604" alt="3" src="https://github.com/user-attachments/assets/367907bf-f38c-4017-816b-86a9e8f7cd2e" />
 
 
 Mais um exemplo, mas desta vez com os valores 28 e 4:
+<img width="1023" height="602" alt="4" src="https://github.com/user-attachments/assets/4bd44e0e-5c2b-4515-8910-5b1acf6f80cb" />
 
 
 Agora, testando diferentes situações, por exemplo, coloquei a letra G onde estaria o primeiro número:
+<img width="1023" height="604" alt="5" src="https://github.com/user-attachments/assets/8d604344-1a7e-47d2-a147-3ac4cabdd0cc" />
+
 
 Neste outro exemplo, coloquei a letra F onde estaria o segundo número:
-
-
-Mais um exemplo mas desta vez com outras informações:
+<img width="1023" height="606" alt="6" src="https://github.com/user-attachments/assets/bbf0662c-4b1b-42c4-8e7d-8191df4013b7" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
 
 Essa atividade demonstra como validar entradas do usuário e evitar operações inválidas, como divisão por zero ou com um caractere. Reforça a importância de verificar as condições antes de realizar cálculos e mostra como tornar o código mais resiliente.
+
+
+## CÓDIGO COMPLETO:
+
+[Clique aqui]()
