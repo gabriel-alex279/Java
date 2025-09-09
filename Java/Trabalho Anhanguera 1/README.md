@@ -45,7 +45,7 @@ Aqui eu acesso o myCompiler:
 <img width="1023" height="606" alt="1" src="https://github.com/user-attachments/assets/10af8208-15bf-4660-a1d3-07c71f6a994e" />
 
 
-Crio um código simples de uma cálculadora que faz somente a divisão, onde o mesmo permita que o usuário insira 2 números, realize a divisão do primeiro número relativo ao segundo 3 mostra na tela:
+Crio um código simples de uma cálculadora que faz somente a divisão, onde o mesmo permita que o usuário insira 2 números, realize a divisão do primeiro número relativo ao segundo:
 <img width="1023" height="606" alt="2" src="https://github.com/user-attachments/assets/da1844c6-0d77-4eb8-98ee-873d6ba45ae8" />
 
 
@@ -72,4 +72,4 @@ Essa atividade demonstra como validar entradas do usuário e evitar operações 
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui]()
+[Clique aqui](https://github.com/gabriel-alex279/Java/blob/main/Java/Trabalho%20Anhanguera%201/C%C3%B3digo%20Completo.txt)
