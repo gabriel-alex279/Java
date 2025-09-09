@@ -19,4 +19,4 @@ Exercícios e exemplos simples feitos em Java.
 Atividades práticas solicitadas pela minha Faculdade.
 
 - [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Java/tree/main/Java/Trabalho%20Anhanguera%201)
-- [Atividade Prática - Trabalho Anhanguera - 2](https://github.com/gabriel-alex279/Java/blob/main/Java/Trabalho%20Anhanguera%20-%202)
+- [Atividade Prática - Trabalho Anhanguera - 2](https://github.com/gabriel-alex279/Java/tree/main/Java/Trabalho%20Anhanguera%202)
