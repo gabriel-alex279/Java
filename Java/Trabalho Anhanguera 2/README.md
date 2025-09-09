@@ -44,12 +44,15 @@ Você deve criar um programa em Java que:
 
 
 Aqui eu acesso o myCompiler:
+<img width="1023" height="608" alt="1" src="https://github.com/user-attachments/assets/452d9d8e-1344-4f6a-8cae-1213110e5321" />
 
 
 Crio um código simples de um sistema que pede ao usuário 5 números inteiros para o mesmo inserir em um Array Unidimensional e posteriormente fazer a soma. No exemplo abaixo, os números inseridos foram 3, 5, 6, 7, 8, somando 29:
+<img width="1023" height="607" alt="3" src="https://github.com/user-attachments/assets/38792e1d-16f2-4327-bc01-f92f8b2ef64c" />
 
 
 Agora prosseguindo com o enunciado, o sistema também pede ao usuário para que ele insira até 9 dígitos para o mesmo os inseri-los em um Array Bidimensional (3x3). Ele Exibe os valores da matriz no formato tabular, calcule e exibe a soma de todos os elementos da matriz. No exemplo abaixo os números inseridos foram: 2, 4, 6, 8, 1, 3, 5, 7, 9, somando 45:
+<img width="1023" height="604" alt="4" src="https://github.com/user-attachments/assets/8bbcb4c5-0278-4c00-a01a-b396d29a62d8" />
 
 
 ## Avaliando os resultados:
@@ -72,4 +75,4 @@ Compreendi como manipular arrays unidimensionais e bidimensionais em Java, captu
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/Java/blob/main/Java/Trabalho%20Anhanguera%202/C%C3%B3digo%20Completo.txt)
